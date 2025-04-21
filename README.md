@@ -14,3 +14,8 @@
 ### 物理学
 - [「ディラック方程式と反粒子」(卒業論文)]()
 - [統計力学モデル「Divisible Sandpile Model」の研究]()
+
+
+
+This repo summarizes my personal outputs.
+Most of the code was written offline before uploading to GitHub.
