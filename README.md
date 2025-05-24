@@ -3,7 +3,7 @@
 ## 成果物、経験等
 ### AI関連
 - PyTorchの仕様経験
-    - [ブラック=ショールズ方程式をPyTorchで解く](./bs-pytorch-pricing/README.md)
+    - [ブラック=ショールズ方程式をPyTorchで解く](./bs-pytorch-pricing)
 - [LLMを用いた英語アプリの開発]()
 - [深層学習の応用可能性に関する考察]()
 - [深層学習の数学的基礎に関する考察]()
