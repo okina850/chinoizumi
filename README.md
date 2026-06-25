@@ -1,21 +1,8 @@
-# For PFN recruitment staffs
-提出したレジュメ、エントリーシートに記載した内容の補足をします
 ## 成果物、経験等
 ### AI関連
 - PyTorchの仕様経験
     - [ブラック=ショールズ方程式をPyTorchで解く](./bs-pytorch-pricing)
 - [LLMを用いた英語アプリの開発]()
-- [深層学習の応用可能性に関する考察]()
-- [深層学習の数学的基礎に関する考察]()
-
-### 応用数学
-- [データサイエンスにまつわる数学的基礎]()
-
-### 物理学
-- [「ディラック方程式と反粒子」(卒業論文)]()
-- [統計力学モデル「Divisible Sandpile Model」の研究]()
-
-
 
 This repo summarizes my personal outputs.
 Most of the code was written offline before uploading to GitHub.
