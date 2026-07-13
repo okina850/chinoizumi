@@ -1,6 +1,5 @@
 ## AI関連
-- PyTorchの仕様経験
-    - [ブラック=ショールズ方程式をPyTorchで解く](./bs-pytorch-pricing)
+- [ブラック=ショールズ方程式をPyTorchで解く](./bs-pytorch-pricing)
 - [LLMを用いた英語アプリの開発]()
 ## 研究活動
 ### 関数近似法の研究
