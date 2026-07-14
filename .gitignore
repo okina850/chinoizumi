@@ -1,0 +1,13 @@
+# 仮想環境フォルダ
+.venv/
+
+# Pythonのコンパイル済みファイル
+__pycache__/
+*.pyc
+
+# Jupyterのチェックポイント
+.ipynb_checkpoints/
+
+# OSが生成する不要なファイル
+.DS_Store
+Thumbs.db
