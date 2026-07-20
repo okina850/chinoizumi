@@ -2,7 +2,10 @@
 - [有理関数を用いた活性化関数の設計](https://github.com/okina850/rational_activation_small-note)
   - **概要:** 活性化関数に有理関数を用いた「Rational activation」によるニューラルネットワークモデルの実験ノート
   - **仕様技術:** Pytorch, Optuna
-- [ブラック=ショールズ方程式をPyTorchで解く](./bs-pytorch-pricing)
+- [NNを用いた2変数関数の近似(coming soon)]()
+  - **概要:** 2変数関数の近似タスクにおける最適なNNモデルの設計について調査・実験
+  - **仕様技術:** Pytorch
+- [ブラック=ショールズ方程式をPyTorchで解く(工事中)](./bs-pytorch-pricing)
 ## 関数近似
 - [ルンゲ関数の近似における3種の補間法の比較](https://github.com/okina850/interpolation-benchmark)
   -  **概要:** 急勾配を持つルンゲ関数に対する補間法（Floater-Hormann法, Bicubic Spline, Chebyshev polynomials）を用いた近似モデルの評価プロファイリング
