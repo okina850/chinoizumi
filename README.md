@@ -1,5 +1,5 @@
 ## 機械学習・AI
-- [有理関数を用いた活性化関数の設計](./rational_activation)
+- [有理関数を用いた活性化関数の設計](https://github.com/okina850/rational_activation_small-note)
 - [ブラック=ショールズ方程式をPyTorchで解く](./bs-pytorch-pricing)
 ## 関数近似
 - [ルンゲ関数の近似における3種の補間法の比較](https://github.com/okina850/interpolation-benchmark)
