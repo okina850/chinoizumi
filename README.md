@@ -2,7 +2,7 @@
 - [有理関数を用いた活性化関数の設計](https://github.com/okina850/rational_activation_small-note)
   - **概要:** 活性化関数に有理関数を用いた「Rational activation」によるニューラルネットワークモデルの実験ノート
   - **仕様技術:** Pytorch, Optuna
-- [NNを用いた2変数関数の近似(coming soon)]()
+- [NNを用いた2変数関数の近似](https://github.com/okina850/NN_inverse_transform_sampling_test)
   - **概要:** 2変数関数の近似タスクにおける最適なNNモデルの設計について調査・実験
   - **仕様技術:** Pytorch
 - [ブラック=ショールズ方程式をPyTorchで解く(工事中)](./bs-pytorch-pricing)
