@@ -18,4 +18,8 @@
   -  **概要:** 急勾配を持つルンゲ関数に対する補間法（Floater-Hormann法, Bicubic Spline, Chebyshev polynomials）を用いた近似モデルの評価プロファイリング
   -  **使用技術:** Python, NumPy, SciPy, Matplotlib
   -  **成果/知見:** Floater-Hormann法により、Bicubic Spline と比較して補間ノード数（$\sim$モデルパラメータ数）を約74%削減できることを実証
+- [Franke関数の近似精度の比較](https://github.com/okina850/gpr_bicubicspline_chebypoly__vs__fh)
+  -  **概要:** Franke関数に対する各種関数近似手法、Floater-Hormann法, Bicubic Spline, Chebyshev polynomials、ガウス過程回帰、を用いた近似モデルの精度比較
+  -  **使用技術:** Python, NumPy, SciPy, Pytorch, Optuna
+  -  **成果/知見:** Chebyshev点配置を用いた場合、Chebyshev多項式が最大絶対誤差$\sim 10^{-12}$という圧倒的な精度を達成
 
