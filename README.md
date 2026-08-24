@@ -1,6 +1,6 @@
 ## 機械学習・AI
 - [GPTの活性化関数を「学習可能な有理関数」に置き換えてみた](https://github.com/okina850/Transformer---------------------)
-  - **概要:** 小さなGPTモデルの活性化関数をGELUから「学習可能な有理型活性化関数」に置き換えて、精度や学習安定性を比較
+  - **概要:** 小さなGPTモデルの活性化関数をGELUから「学習可能な有理型活性化関数」に置き換えて事前学習を実施，精度や学習安定性を比較
   - **使用技術:** 自然言語処理, Transformer, GPT, PyTorch, etc
 - [感情分析](https://github.com/okina850/sentiment_analysis_stat)
   - **概要:** Hugging Face (Transformers) を用いた感情分析推論パイプラインと、推論結果に対する基本統計解析（t検定）の実装サンプル
