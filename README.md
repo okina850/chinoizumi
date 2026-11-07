@@ -1,3 +1,8 @@
+## Before read this repository
+Before read this repository, please take a look at [my brief introduction page](https://github.com/okina850) in advance. This repository is for detailed information about my projects.
+
+このリポジトリを見る前に、まずは[こちらの自己紹介ページ](https://github.com/okina850)をご覧ください。このリポジトリは、今までのプロジェクトの詳細説明用のページになります。
+
 ## 機械学習・AI
 - [GPTの活性化関数を「学習可能な有理関数」に置き換えてみた](https://github.com/okina850/Transformer---------------------)
   - **概要:** 小さなGPTモデルの活性化関数をGELUから「学習可能な有理型活性化関数」に置き換えて事前学習を実施，精度や学習安定性を比較
